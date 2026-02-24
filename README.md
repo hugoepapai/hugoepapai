@@ -19,7 +19,7 @@ Sou um Cientista de Dados apaixonado por extrair histórias ocultas em grandes v
 
 - 🌱 **Atualmente aprendendo:** Cientista de dados - EBAC.
 - 💡 **Interesses:** Inteligência Artificial, Finanças Quantitativas, NLP e Visualização de Dados.
-- 📫 **Como falar comigo:** rodrigopure@hotmail.com](mailto:rodrigopure@hotmail.com)
+- 📫 **Como falar comigo:** rodrigopure@hotmail.com
 
 ---
 
