@@ -52,12 +52,12 @@ Sou um Cientista de Dados apaixonado por extrair histórias ocultas em grandes v
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO]&show_icons=true&theme=tokyonight&locale=pt-br" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[SEU_USUARIO]&theme=tokyonight&locale=pt-br" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[hugoepapai]&show_icons=true&theme=tokyonight&locale=pt-br" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[hugoepapai]&theme=tokyonight&locale=pt-br" width="48%" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUARIO]&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[hugoepapai]&layout=compact&theme=tokyonight" width="48%" />
 </div>
 
 ---
