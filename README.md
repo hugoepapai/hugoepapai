@@ -6,8 +6,8 @@
 
 **Transformando dados complexos em decisões de negócios inteligentes e modelos escaláveis.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/)
-[![Portfólio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://seu-site.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-ribeiro-417448329/)
+[![Portfólio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](null)
 
 </div>
 
