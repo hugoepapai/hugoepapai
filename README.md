@@ -52,12 +52,10 @@ Sou um Cientista de Dados apaixonado por extrair histórias ocultas em grandes v
 ### 📊 Estatísticas do GitHub
 
 
-<br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoepapai&layout=compact&theme=tokyonight" width="48%" />
-</div>
 
----
-<div align="center">
-  <i>"Os dados são a nova matéria-prima da nossa era, mas é a inteligência que lhes dá forma."</i>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[SEU_USUARIO]&theme=tokyonight&locale=pt-br" width="48%" />
 </div>
+<br>
+
+
